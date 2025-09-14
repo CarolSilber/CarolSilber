@@ -1,9 +1,9 @@
 # Olá, eu sou a Caroline! 👋
 
-Sou estudante de desenvolvimento front-end apaixonada por tecnologias web.
+Estou cusando Análise e Desenvolvimento de Sistemas e sou apaixonada por tecnologias web.
 
 - 🚀 Estou aprendendo JavaScript, React, HTML, CSS
-- 📫 Me encontre: carolinesilvabezerra@gmail.com
+- 📫 Me encontre: www.linkedin.com/in/caroline-silva-836229384
 
 ## Projetos Recentes
 
